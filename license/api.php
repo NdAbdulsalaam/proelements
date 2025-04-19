@@ -219,7 +219,19 @@ class API {
 		                             'settings-woocommerce-notices',
 		                             'dynamic-tags-wc',
 		                             'settings-woocommerce-pages',
-		                             'settings-woocommerce-notices'];
+		                             'settings-woocommerce-notices',
+									 // Additional features below
+									 'theme-builder',
+									 'form-builder',
+									 'form-submissions',
+									 'motion-effects',
+									 'sticky-elements',
+									 'custom-fonts',
+									 'custom-icons',
+									 'marketing-integrations',
+									 'dynamic-content',
+									 'custom-breakpoints',
+									 'collaborative-notes'];
 
 
 		return $license_data;
